@@ -6,4 +6,8 @@
  #   word.reverse
  # end
  # return sentence_array_reversed
+#end
+
+def reverse_each_word(sentence)
+  sentence.reverse_each
 end
